@@ -301,7 +301,7 @@ section {
 .header__bottom {
   background: rgba(23, 23, 23, 0.95);
   backdrop-filter: blur(25px);
-  padding: 13px 0;
+  padding: 12px 0;
 }
 
 .static-header {
@@ -344,7 +344,7 @@ section {
 
 .header-menu__list__item a {
   color: #fff;
-  font-size: 15px;
+  font-size: 16px;
   font-weight: 600;
   text-transform: uppercase;
   opacity: 1;
@@ -611,6 +611,16 @@ section {
   align-items: center;
   flex-direction: column;
   text-align: center;
+}
+
+.offer-content__utp-block__utp__img {
+  display: block;
+  width: 635px;
+  height: 289px;
+  object-fit: contain;
+  user-select: none;
+  margin-top: 62px;
+  user-select: none;
 }
 
 .offer-content__utp-block__utp__item {
