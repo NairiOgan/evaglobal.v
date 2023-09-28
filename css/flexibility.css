@@ -16,9 +16,9 @@
     .offer-main__usp-wrap__block {
         margin-right: 100px;
     }
-    .header-menu__list__item a {
+    /* .header-menu__list__item a {
         font-size: 13px;
-    }
+    } */
     .header__btn {
         padding: 17px 32px;
     }
@@ -365,8 +365,15 @@
         font-size: 35px;
         line-height: 2.8rem;
     }
+    .offer-content__utp-block__utp__img {
+        width: 100%;
+        height: 262px;
+        margin-top: 0;
+    }
     
-    
+    .offer-content__utp-block {
+        gap: 0;
+    }
     .offer-main__usp-item {
         font-size: 16px;
     }
@@ -474,6 +481,9 @@
         width: 100%;
     }
     /* header  */
+    .offer-content__utp-block__form {
+        margin-top: 0;
+    }
     .offer-content__utp-block__utp__item {
         font-size: 24px;
     }
@@ -964,6 +974,9 @@
         width: 320px;
     }
     /* header  */
+    .offer-content__utp-block__utp__img {
+        height: 229px;
+    }
     .offer-content__utp-block__utp__item {
         font-size: 20px;
     }
